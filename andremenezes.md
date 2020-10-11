@@ -60,3 +60,34 @@
 * **_git rebase_**
 *Usado para reaplicação de compromissos em outro ramo*
 ![Alt ou título da imagem](https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2017/04/comandos-basicos-git-1280x720.png)
+* **Alguns comandos básicos no terminal Linux** <h1>
+* **_Comando pwd_**
+*Usado para encontrar o caminho para o diretório atual da pasta em que você está*
+* **_Comando cd_**
+*Para navegar pelo filesystem do Linux*
+* **_Comando cat_**
+*Usado para visualizar o conteúdo de um arquivo na saída padrão*
+* **_Comando cp_**
+*Usado para copiar arquivo do diretório atual em que você estiver*
+* **_Comando mv_**
+*Usado para mover arquivos, ainda que ele possa também ser usado para renomear arquivos*
+* **_Comando mkdir_**
+*Usado para criar um novo diretório*
+* **_Comando rmdir_**
+*Usado para deletar um diretório, porém, permite que deletar somente diretórios vazios*
+* **_Comando rm_**
+*Usado para apagar um diretório e todos os conteúdos que estiverem dentro*
+* **_Comando hostname_**
+*Usado para descobrir o nome do seu host/network*
+* **_Comando Is_**
+*Usado para visualizar conteúdos em um diretório*
+* **_Comando touch_**
+*Permite criar novos arquivos em branco através de uma linha de comando*
+* **_Comando find_**
+*Usado para procurar por arquivos dentro de um diretório específico*
+* **_Comando sudo_**
+*Permite executar tarefas que exigem permissões root ou administrativas*
+![Alt ou título da imagem](https://mulheresnacomputacao.files.wordpress.com/2018/03/melhores-distribuicoes-linux-rodar-servidores-1024x536.png)
+
+
+
